@@ -1,4 +1,4 @@
-FGANomaly
+QA-FGANomaly
 This repository shows the implementation of QA-FGANomaly:Quantum-Inspired Attention Framework for Robust Anomaly Detection in Contaminated Multivariate Time Series.
 
 FGANomaly.py
